@@ -1,0 +1,27 @@
+title: Mary Borden
+description: A personal portfolio for Mary Borden.
+url: "https://maryborden-mb.github.io"
+baseurl: ""
+github_username: maryborden-mb
+lang: en-US
+timezone: America/Los_Angeles
+
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - PLAN.md
+  - attached_assets
+  - artifacts
+  - lib
+  - scripts
+  - node_modules
+  - replit.md
+  - .replit
+  - .agents
+  - .conversation
+  - .local
+  - .git
+  - .gitignore
+  - .replit
+  - .replitignore

@@ -1,0 +1,19 @@
+# See https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+.DS_Store
+Thumbs.db
+.jekyll-cache/
+_site/
+.sass-cache/
+*.tsbuildinfo
+.cache/
+.local/
+.conversation/
+/.agents/
+/artifacts/
+/lib/
+/scripts/
+/node_modules/
+/attached_assets/
+/.replit
+/replit.md
