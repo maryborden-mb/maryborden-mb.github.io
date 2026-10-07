@@ -41,7 +41,6 @@ intro: A data and analytics professional focused on useful answers and clear com
     <ul>
       <li>Partner operations</li>
       <li>Revenue share management</li>
-      <li>Pricing logic</li>
       <li>Revenue recovery</li>
       <li>Product development</li>
       <li>Stakeholder presentations</li>

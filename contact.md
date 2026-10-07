@@ -5,7 +5,7 @@ description: Connect with Mary Borden.
 intro: Find Mary’s public professional profile online.
 ---
 
-<p class="placeholder">A public email address is intentionally not displayed. Visitors can use the public profile link below to connect.</p>
+<p class="placeholder">A public email address is intentionally not displayed. Visitors can use the public profiles below to connect.</p>
 
 <div class="contact-links">
   <a class="contact-link" href="https://github.com/{{ site.github_username }}">
@@ -15,10 +15,11 @@ intro: Find Mary’s public professional profile online.
     </span>
     <span aria-hidden="true">↗</span>
   </a>
-  <div class="contact-link contact-link--muted">
+  <a class="contact-link" href="https://www.linkedin.com/in/mary-borden-259027112/">
     <span>
       <strong>LinkedIn</strong>
-      <span>Placeholder: Add a public profile link if desired.</span>
+      <span>linkedin.com/in/mary-borden-259027112</span>
     </span>
-  </div>
+    <span aria-hidden="true">↗</span>
+  </a>
 </div>
