@@ -17,7 +17,38 @@ intro: A data and analytics professional focused on useful answers and clear com
 </ul>
 
 <h2>Skills &amp; tools</h2>
-<p class="placeholder">Placeholder: Add the skills, software, programming languages, analytical methods, and tools Mary wants to highlight.</p>
+<div class="skills-grid">
+  <section class="skills-group" aria-labelledby="skills-analytics">
+    <h3 id="skills-analytics">Analytics</h3>
+    <ul>
+      <li>Data analysis</li>
+      <li>Quantitative analysis</li>
+      <li>Dashboard development</li>
+      <li>Data pipelines</li>
+    </ul>
+  </section>
+  <section class="skills-group" aria-labelledby="skills-tools">
+    <h3 id="skills-tools">Tools</h3>
+    <ul>
+      <li>SQL</li>
+      <li>Microsoft SQL Server Management Studio</li>
+      <li>Microsoft Access</li>
+      <li>Microsoft Excel</li>
+    </ul>
+  </section>
+  <section class="skills-group" aria-labelledby="skills-operations">
+    <h3 id="skills-operations">Strategy &amp; operations</h3>
+    <ul>
+      <li>Partner operations</li>
+      <li>Revenue share management</li>
+      <li>Pricing logic</li>
+      <li>Revenue recovery</li>
+      <li>Product development</li>
+      <li>Stakeholder presentations</li>
+      <li>Team mentoring</li>
+    </ul>
+  </section>
+</div>
 
 <h2>Leadership</h2>
 <p class="placeholder">Placeholder: Add leadership experience, team development, mentoring, or community involvement.</p>
