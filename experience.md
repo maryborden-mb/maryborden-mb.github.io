@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work Experience
+title: Work
 description: Work experience and selected contributions from Mary Borden.
 intro: A record of roles, responsibilities, and selected work.
 ---
